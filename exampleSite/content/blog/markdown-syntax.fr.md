@@ -4,7 +4,7 @@ description = "Exemple d'article présentant la syntaxe et le formatage de base 
 author = "Hugo Auteurs"
 date = "2019-03-11"
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+
 [[images]]
   src = "img/2019/03/pic01.jpg"
   alt = "Mountain Range Through Clouds"

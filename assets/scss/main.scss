@@ -22,13 +22,16 @@
 
 /* Font */
 
-$header-font: "Raleway", Helvetica, sans-serif;
-$body-font: "Source Sans Pro", Helvetica, sans-serif;
+// $header-font: "Raleway", Helvetica, sans-serif;
+$header-font: "News Cycle", sans-serif;
+// $body-font: "Source Sans Pro", Helvetica, sans-serif;
+$body-font: "News Cycle", sans-serif;
 $code-font: "Courier New", monospace;
 $fa-free-font: "Font Awesome 5 Free";
 $fa-brands-font: "Font Awesome 5 Brands";
 $header-color: 	hsl(0, 1%, 23%);
-$accent-color: 	hsl(175, 60%, 45%);
+// $accent-color: 	hsl(175, 60%, 45%);
+$accent-color: 	hsl(36, 88%, 49%);
 $accent-hover: hsla(175, 60%, 45%, 0.25);
 $warning-color: hsl(332, 60%, 45%);
 $warning-hover: hsla(332, 60%, 45%, 0.25);
@@ -1113,7 +1116,7 @@ figcaption {
 #site-header {
   background-color: $white;
   border-bottom: $primary-border;
-  box-shadow: $shadow-2;
+  // box-shadow: $shadow-2;
   height: 3.5em;
   line-height: 3.5em;
   position: fixed;
